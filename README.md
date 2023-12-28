@@ -1,3 +1,27 @@
+## Website Coffee Shop Centseico – Native PHP
+### Landing Page
+![alt_text](https://github.com/rendyirawann/PDF_portfolio/blob/master/centseico/CENTSEICO-Coffee%20Landing%20Page.png?raw=true)
+### Login Page
+![alt_text](https://github.com/rendyirawann/PDF_portfolio/blob/master/centseico/CENTSEICO-Coffee%20Login.png?raw=true)
+### Session Start Admin
+![alt_text](https://github.com/rendyirawann/PDF_portfolio/blob/master/centseico/CENTSEICO-Coffee%20User-1.png?raw=true)
+### Menu List
+![alt_text](https://github.com/rendyirawann/PDF_portfolio/blob/master/centseico/CENTSEICO-Coffee%20Menu%20List.png?raw=true)
+### Tambah Menu
+![alt_text](https://github.com/rendyirawann/PDF_portfolio/blob/master/centseico/CENTSEICO-Coffee%20Tambah%20Menu.png?raw=true)
+### Menu Edit
+![alt_text](https://github.com/rendyirawann/PDF_portfolio/blob/master/centseico/CENTSEICO-Coffee%20Menu%20Edit.png?raw=true)
+### Riwayat Order
+![alt_text](https://github.com/rendyirawann/PDF_portfolio/blob/master/centseico/CENTSEICO-Coffee%20Riwayat%20Order.png?raw=true)
+### Order User
+![alt_text](https://github.com/rendyirawann/PDF_portfolio/blob/master/centseico/CENTSEICO-Coffee%20Menu%20Order%20User.png?raw=true)
+### Konfirmasi Order
+![alt_text](https://github.com/rendyirawann/PDF_portfolio/blob/master/centseico/CENTSEICO-Coffee%20Konfirmasi%20Order.png?raw=true)
+
+# ***IMPORTANT***
+### dont forget to import db, saentisco.sql and change db_name on koneksi.php
+### for username and password you can see it on phpmyadmin
+
 Thanks for downloading this theme!
 
 ## Other Useful Links
